@@ -15,3 +15,5 @@
 * [jorgesumle](https://github.com/jorgesumle)
 * [crxxn](https://github.com/crxxn)
 * [Christiano Anderson](http://github.com/christiano) (Green Penguin)
+
+(Kept the original authors credit)
